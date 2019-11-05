@@ -16,7 +16,7 @@
     "express": "^4.13.3",
     "express-session": "^1.11.3",
     "method-override": "~1.0.0",
-    "mongoose": "^4.0.2",
+    "mongoose": "^5.7.8",
     "passport": "~0.1.17",
     "passport-local": "~0.1.6",
     "pusher": "^2.2.0"
